@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1566976860 source:d:\codeblocks\test\usered_system\algorithm\des.c
+	"stdio.h"
+	"memory.h"
+	"stdlib.h"
+	"des.h"
+
+1566976860 d:\codeblocks\test\usered_system\algorithm\des.h
+
+1566976860 source:d:\codeblocks\test\usered_system\algorithm\md5.c
+	"md5.h"
+
+1566976860 d:\codeblocks\test\usered_system\algorithm\md5.h
+	<stdint.h>
+	<string.h>
+
+1566999214 source:d:\codeblocks\test\usered_system\algorithm\rsa.c
+	"rsa.h"
+	<math.h>
+
+1566999222 d:\codeblocks\test\usered_system\algorithm\rsa.h
+
+1568250782 source:d:\codeblocks\test\usered_system\common\common.c
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+
+1568250915 source:d:\codeblocks\test\usered_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"common/file.h"
+	"common/Menu.h"
+	"common/common.h"
+	"business/Authority.h"
+
+1568193524 d:\codeblocks\test\usered_system\common\file.h
+	"list.h"
+
+1567736573 source:d:\codeblocks\test\usered_system\common\file.c
+	"file.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1567651331 source:d:\codeblocks\test\usered_system\common\menu.c
+
+1568181560 d:\codeblocks\test\usered_system\common\common.h
+	"list.h"
+
+1568768148 d:\codeblocks\test\usered_system\common\list.h
+	<time.h>
+
+1568767948 source:d:\codeblocks\test\usered_system\common\list.c
+	"list.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1567648582 d:\codeblocks\test\usered_system\common\menu.h
+
+1567131054 d:\codeblocks\test\usered_system\common\list.c
+	"list.h"
+	"file.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1568193729 d:\codeblocks\test\usered_system\business\authority.h
+	"../common/list.h"
+	"Mail.h"
+	"bulletin.h"
+
+1568771129 source:d:\codeblocks\test\usered_system\business\authority.c
+	"Authority.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1568770298 source:d:\codeblocks\test\usered_system\business\mail.c
+	"Mail.h"
+	<stdio.h>
+	<stdlib.h>
+
+1568207167 d:\codeblocks\test\usered_system\business\mail.h
+	"../common/list.h"
+	"../common/common.h"
+
+1568770684 source:d:\codeblocks\test\usered_system\business\bulletin.c
+	"bulletin.h"
+	<stdio.h>
+	<stdlib.h>
+
+1567482827 d:\codeblocks\test\usered_system\business\bulletin.h
+	"../common/list.h"
+	"../common/common.h"
+
+1566976860 source:d:\codeblocks\projects\usered_system\algorithm\des.c
+	"stdio.h"
+	"memory.h"
+	"stdlib.h"
+	"des.h"
+
+1566976860 d:\codeblocks\projects\usered_system\algorithm\des.h
+
+1566976860 source:d:\codeblocks\projects\usered_system\algorithm\md5.c
+	"md5.h"
+
+1566976860 d:\codeblocks\projects\usered_system\algorithm\md5.h
+	<stdint.h>
+	<string.h>
+
+1566999214 source:d:\codeblocks\projects\usered_system\algorithm\rsa.c
+	"rsa.h"
+	<math.h>
+
+1566999222 d:\codeblocks\projects\usered_system\algorithm\rsa.h
+
+1568771129 source:d:\codeblocks\projects\usered_system\business\authority.c
+	"Authority.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1568193729 d:\codeblocks\projects\usered_system\business\authority.h
+	"../common/list.h"
+	"Mail.h"
+	"bulletin.h"
+
+1568768148 d:\codeblocks\projects\usered_system\common\list.h
+	<time.h>
+
+1568207167 d:\codeblocks\projects\usered_system\business\mail.h
+	"../common/list.h"
+	"../common/common.h"
+
+1568181560 d:\codeblocks\projects\usered_system\common\common.h
+	"list.h"
+
+1567482827 d:\codeblocks\projects\usered_system\business\bulletin.h
+	"../common/list.h"
+	"../common/common.h"
+
+1568770684 source:d:\codeblocks\projects\usered_system\business\bulletin.c
+	"bulletin.h"
+	<stdio.h>
+	<stdlib.h>
+
+1568770298 source:d:\codeblocks\projects\usered_system\business\mail.c
+	"Mail.h"
+	<stdio.h>
+	<stdlib.h>
+
+1568250782 source:d:\codeblocks\projects\usered_system\common\common.c
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+
+1567736573 source:d:\codeblocks\projects\usered_system\common\file.c
+	"file.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1568193524 d:\codeblocks\projects\usered_system\common\file.h
+	"list.h"
+
+1568767948 source:d:\codeblocks\projects\usered_system\common\list.c
+	"list.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1567651331 source:d:\codeblocks\projects\usered_system\common\menu.c
+
+1568250915 source:d:\codeblocks\projects\usered_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"common/file.h"
+	"common/Menu.h"
+	"common/common.h"
+	"business/Authority.h"
+
+1567648582 d:\codeblocks\projects\usered_system\common\menu.h
+

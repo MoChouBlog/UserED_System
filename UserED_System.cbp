@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="UserED_System" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/UserED_System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/UserED_System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="algorithm/des.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="algorithm/des.h" />
+		<Unit filename="algorithm/md5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="algorithm/md5.h" />
+		<Unit filename="algorithm/rsa.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="algorithm/rsa.h" />
+		<Unit filename="business/Authority.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="business/Authority.h" />
+		<Unit filename="business/Mail.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="business/Mail.h" />
+		<Unit filename="business/bulletin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="business/bulletin.h" />
+		<Unit filename="common/Menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/Menu.h" />
+		<Unit filename="common/common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/common.h" />
+		<Unit filename="common/file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/file.h" />
+		<Unit filename="common/list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common/list.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
